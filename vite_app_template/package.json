@@ -1,0 +1,42 @@
+{
+  "name": "vite_template",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.9",
+    "ant-design-vue": "^4.2.6",
+    "axios": "^1.6.2",
+    "element-plus": "^2.9.0",
+    "leaflet": "^1.9.4",
+    "mockjs": "^1.1.0",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "screenfull": "^6.0.2",
+    "svg-pan-zoom": "^3.6.2",
+    "vue-leaflet": "^0.1.0",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.2.157",
+    "@types/leaflet": "^1.9.15",
+    "@types/mockjs": "^1.0.10",
+    "@vitejs/plugin-vue": "^4.5.1",
+    "@vue/compiler-sfc": "^3.5.13",
+    "sass": "^1.81.0",
+    "unplugin-auto-import": "^0.11.2",
+    "unplugin-element-plus": "^0.4.1",
+    "unplugin-icons": "^0.14.8",
+    "unplugin-vue-components": "^0.22.4",
+    "vite": "^5.0.5",
+    "vue": "^3.5.13",
+    "vue-loader": "^17.3.1",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
